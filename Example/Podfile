@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HtmlRichTextConverter_Tests' do
+  pod 'HtmlRichTextConverter', :path => '../'
+  
+  
+end

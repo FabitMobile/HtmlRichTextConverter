@@ -1,0 +1,6 @@
+framework module Pods_HtmlRichTextConverter_Tests {
+  umbrella header "Pods-HtmlRichTextConverter_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

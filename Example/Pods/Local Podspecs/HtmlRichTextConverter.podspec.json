@@ -1,0 +1,22 @@
+{
+  "name": "HtmlRichTextConverter",
+  "version": "0.1.0",
+  "summary": "A short description of HtmlRichTextConverter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/togishiro/HtmlRichTextConverter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "togishiro": "rogov_dmitriy@rambler.ru"
+  },
+  "source": {
+    "git": "https://github.com/togishiro/HtmlRichTextConverter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HtmlRichTextConverter/Classes/**/*"
+}

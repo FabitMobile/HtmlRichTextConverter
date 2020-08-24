@@ -1,0 +1,16 @@
+PODS:
+  - HtmlRichTextConverter (0.1.0)
+
+DEPENDENCIES:
+  - HtmlRichTextConverter (from `../`)
+
+EXTERNAL SOURCES:
+  HtmlRichTextConverter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HtmlRichTextConverter: 3173fec7b51e24946a962eee1f1f9570e0e44c54
+
+PODFILE CHECKSUM: 7b4bb4b59e6498c2a1015c17ca8a289ebecf62b3
+
+COCOAPODS: 1.9.3
