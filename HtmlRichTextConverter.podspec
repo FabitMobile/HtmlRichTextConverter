@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'HtmlRichTextConverter'
-    s.version          = '0.1.0'
+    s.version          = '1.0.0'
     s.summary          = 'Wrapper on DTCoreText'
     
     s.homepage         = 'https://github.com/FabitMobile/HtmlRichTextConverter'
